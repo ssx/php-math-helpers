@@ -1,4 +1,4 @@
-![Circle CI](https://circleci.com/gh/ssx/php-math-helpers.png?style=shield " ") ![StyleCI](https://styleci.io/repos/94243628/shield " ")
+![Circle CI](https://circleci.com/gh/ssx/php-math-helpers.png?style=shield " ") ![StyleCI](https://styleci.io/repos/96680151/shield " ")
 
 
 # php-math-helpers
